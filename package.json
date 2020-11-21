@@ -3,7 +3,9 @@
     "expo": "~39.0.0",
     "react": "~16.13.0",
     "react-dom": "~16.13.0",
+    "react-hook-form": "^6.11.4",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.2.tar.gz",
+    "react-native-keyboard-aware-scroll-view": "^0.9.3",
     "react-native-screens": "~2.10.1",
     "react-native-web": "0.13.13"
   },
